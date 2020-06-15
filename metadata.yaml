@@ -1,0 +1,23 @@
+_repo: A-Winter-of-Content_62303
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Davidson, Laura Lee
+    gutenberg_agent_id: '51886'
+    url: http://www.gutenberg.org/2009/agents/51886
+description: ''
+gutenberg_issued: '2020-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62303'
+  lccn: '22009366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Ontario'
+- !lcc 'F1001'
+- GITenberg
+title: A Winter of Content
+url: http://www.gutenberg.org/ebooks/62303
