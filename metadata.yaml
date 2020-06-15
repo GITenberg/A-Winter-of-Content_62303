@@ -1,11 +1,16 @@
 _repo: A-Winter-of-Content_62303
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62303-h/images/cover.jpg
 creator:
   author:
     agent_name: Davidson, Laura Lee
     gutenberg_agent_id: '51886'
     url: http://www.gutenberg.org/2009/agents/51886
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62303#A-Winter-of-Content
 gutenberg_issued: '2020-06-02'
 gutenberg_type: Text
 identifiers:
